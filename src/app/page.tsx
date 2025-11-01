@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -129,8 +129,7 @@ export default function Home() {
               company: "Local Business",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Confident businesswoman using her tablet and phone, smiling outdoors in sunlight.",
-              content: "The coffee here is absolutely amazing and the atmosphere is so welcoming. Perfect place for business meetings."
+              imageAlt: "Confident businesswoman using her tablet and phone, smiling outdoors in sunlight."
             },
             {
               id: "2",
@@ -139,8 +138,7 @@ export default function Home() {
               company: "Tech Startup",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3777565/pexels-photo-3777565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Adult man in pink dress shirt looking stressed while talking on a smartphone indoors.",
-              content: "Great food quality and friendly staff. I come here every day for lunch and it never disappoints."
+              imageAlt: "Adult man in pink dress shirt looking stressed while talking on a smartphone indoors."
             },
             {
               id: "3",
@@ -149,8 +147,7 @@ export default function Home() {
               company: "High School",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Confident businesswoman using her tablet and phone, smiling outdoors in sunlight.",
-              content: "The salads are always fresh and the soup of the day is consistently delicious. Highly recommend!"
+              imageAlt: "Confident businesswoman using her tablet and phone, smiling outdoors in sunlight."
             },
             {
               id: "4",
@@ -159,8 +156,7 @@ export default function Home() {
               company: "Financial Firm",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/6973116/pexels-photo-6973116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Happy senior couple laughing and enjoying their time together indoors.",
-              content: "Brown Café has become my favorite spot for a quiet lunch. The brown theme is so warm and inviting."
+              imageAlt: "Happy senior couple laughing and enjoying their time together indoors."
             }
           ]}
         />
